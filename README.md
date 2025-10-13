@@ -1,4 +1,4 @@
-# A-Global-Analysis-of-Mental-Health-Resources-and-Suicide-Rates
+# A Global-Analysis of Mental Health Resources and-Suicide Rates
 The primary objective of this project was to investigate the statistical relationship between a country's investment in mental health resources and its national suicide rates. 
 Mental health is a critical component of global well-being, yet the resources allocated to it vary significantly across nations. Suicide remains a major public health concern worldwide, and understanding its complex drivers is essential for crafting effective prevention strategies. Data-driven analysis offers a powerful lens through which we can explore the potential impact of public health investment on this critical outcome.
 This project aims to investigate the relationship between a country's investment in mental health infrastructure and its corresponding suicide rates. The central question of this analysis is: Do countries with more extensive mental health resources, such as a higher density of psychiatrists, psychologists, and specialized facilities, demonstrate lower suicide rates?
