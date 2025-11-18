@@ -22,6 +22,9 @@ The analysis merges and processes four separate WHO datasets to create a full 36
 **Date:** November 2025  
 **Data Source:** World Health Organization (WHO)
 
+PDF:
+[A.Global.Analysis.of.Mental.Health.Resources.and.Suicide.Rates.by.Maria.Luisa.Ros.Bolea.pdf](https://github.com/user-attachments/files/23602586/A.Global.Analysis.of.Mental.Health.Resources.and.Suicide.Rates.by.Maria.Luisa.Ros.Bolea.pdf)
+
 ---
 
 ## 🎯 Objectives of the Analysis
